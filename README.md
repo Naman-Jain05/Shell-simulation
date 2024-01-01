@@ -7,5 +7,4 @@ The shell supports both sequential execution (using '##') and parallel execution
 
 The code is designed to be modular and readable, following proper indentation and including comments for clarity. It avoids unnecessary complexity, adheres to grading guidelines, and does not use external library functions requiring additional installations or command line arguments during compilation. It is compatible with Linux systems and focuses on simplicity for ease of understanding.
 
-![Display](
-<img width="281" alt="Screenshot 2023-12-23 201604" src="https://github.com/Naman-Jain05/Shell-simulation/assets/84340948/38c0565c-3d7f-4064-a815-7f58e8582c60">)
+<img width="281" alt="Screenshot 2023-12-23 201604" src="https://github.com/Naman-Jain05/Shell-simulation/assets/84340948/85287730-f8e0-46f5-8ef9-a020bbf05638">
